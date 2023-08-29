@@ -1,0 +1,29 @@
+package main;
+
+import java.util.Scanner;
+
+public class Main {
+
+	//맥도날드 키오스크
+	public static void main(String[] args) {
+		
+		//스캐너 준비
+		Scanner sc = new Scanner(System.in);
+		
+		//포장 매장
+		System.out.println("1.포장 2.매장");
+		int n = sc.nextInt();
+		
+		//메뉴 선택 (버거)
+		//메뉴선택 (사이드)
+		//메뉴 선택 (음료)
+		
+		//결제 
+		//대기번호 발급
+		
+		System.out.println("주문하시겠습니까?");
+		
+		
+	}
+
+}

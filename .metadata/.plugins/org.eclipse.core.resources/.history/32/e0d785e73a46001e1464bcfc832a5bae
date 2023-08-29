@@ -1,0 +1,25 @@
+package main;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		//맥도날드 키오스크
+		
+		//포장 매장
+		
+		//메뉴 선택 (버거)
+		//메뉴선택 (사이드)
+		//메뉴 선택 (음료)
+		
+		//결제 
+		//대기번호 발급
+		
+		System.out.println("주문하시겠습니까?");
+		
+		
+		
+		
+	}
+
+}

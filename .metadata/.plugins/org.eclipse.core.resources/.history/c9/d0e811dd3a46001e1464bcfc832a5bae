@@ -1,0 +1,12 @@
+package main;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		//맥도날드 키오스크
+		System.out.println("주문하시겠습니까?");
+		
+	}
+
+}
