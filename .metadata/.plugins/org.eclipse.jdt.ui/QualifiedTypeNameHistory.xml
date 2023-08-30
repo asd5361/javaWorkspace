@@ -3,4 +3,14 @@
     <fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthOptionPaneUI"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="practice.VarTest"/>
+    <fullyQualifiedTypeName name="practice.OPeratorTest"/>
+    <fullyQualifiedTypeName name="java.nio.file.spi.FileSystemProvider"/>
+    <fullyQualifiedTypeName name="practice.ControlTest"/>
+    <fullyQualifiedTypeName name="practice.ArrayTest"/>
+    <fullyQualifiedTypeName name="practice.MethodTest"/>
+    <fullyQualifiedTypeName name="java.lang.StackOverflowError"/>
+    <fullyQualifiedTypeName name="main.Student"/>
+    <fullyQualifiedTypeName name="main.SmartPhone"/>
+    <fullyQualifiedTypeName name="mob.Pokemon"/>
 </qualifiedTypeNameHistroy>

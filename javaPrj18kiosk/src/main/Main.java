@@ -25,25 +25,15 @@ public class Main {
 		System.out.println("1.포장 2.매장");
 		int packageType = sc.nextInt();
 		
-		
 		//메뉴 선택 (버거) 메뉴판 보여주고 입력 받기
 		Memu m = new Memu();
 		int burger = m.burgerMenu();
 		
 		//메뉴선택 (사이드)
-		System.out.println("==============사이드==============");
-		System.out.println("1. "+ Main.SIDE01);
-		System.out.println("2. "+ Main.SIDE02);
-		System.out.println("3. "+ Main.SIDE03);
-		int side = Main.sc.nextInt();
-		
+		int side = m.sideMemu();
 		
 		//메뉴 선택 (음료)
-		System.out.println("==============음료=============");
-		System.out.println("1. "+ DRINK01);
-		System.out.println("2. "+ DRINK02);
-		System.out.println("3. "+ DRINK03);
-		int drink = sc.nextInt();
+		int drink = m.drinkMeme();
 		
 		//결제 
 		
