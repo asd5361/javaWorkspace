@@ -16,6 +16,8 @@ public class Main {
 		System.out.println(p.hp);
 		System.out.println(p.atk);
 		System.out.println(p.def);
+		
+		p.attack();
 
 	}
 

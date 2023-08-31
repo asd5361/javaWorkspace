@@ -7,7 +7,4 @@ public class Pokemon {
 	public int atk;
 	public int def;
 	
-	public void attack() {
-		System.out.println("가라!! 몸통박치기");
-	}
 }
