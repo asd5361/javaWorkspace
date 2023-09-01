@@ -10,7 +10,7 @@ public class BattleManager {
 	Pokemon p1 = null;	
 	Pokemon p2 = null;
 	
-	//포켓몬 생성 메소
+	//포켓몬 생성 메소드
 	public void generatePokemon() {
 		p1 = new Pokemon();
 		p1.name = "피카츄";

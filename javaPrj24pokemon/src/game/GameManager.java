@@ -7,7 +7,7 @@ public class GameManager {
 		
 		// 포켓몬 선택
 		PokemonManager pm = new PokemonManager();
-		
+		pm.selectPokemon();
 		
 		
 		// 배틀하기
