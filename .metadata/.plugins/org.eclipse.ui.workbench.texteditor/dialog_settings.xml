@@ -8,6 +8,7 @@
 		<item key="isRegEx" value="false"/>
 		<item key="selection" value="SIDE"/>
 		<list key="findhistory">
+			<item value="s"/>
 			<item value="side"/>
 		</list>
 		<list key="replacehistory">

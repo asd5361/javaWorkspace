@@ -3,7 +3,6 @@
     <fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthOptionPaneUI"/>
     <fullyQualifiedTypeName name="practice.VarTest"/>
     <fullyQualifiedTypeName name="practice.OPeratorTest"/>
-    <fullyQualifiedTypeName name="java.nio.file.spi.FileSystemProvider"/>
     <fullyQualifiedTypeName name="practice.ControlTest"/>
     <fullyQualifiedTypeName name="practice.ArrayTest"/>
     <fullyQualifiedTypeName name="practice.MethodTest"/>
@@ -13,12 +12,24 @@
     <fullyQualifiedTypeName name="java.util.prefs.BackingStoreException"/>
     <fullyQualifiedTypeName name="battle.BattleManager"/>
     <fullyQualifiedTypeName name="java.lang.StrictMath"/>
-    <fullyQualifiedTypeName name="mob.Pokemon"/>
     <fullyQualifiedTypeName name="game.GameManager"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="main.Main"/>
     <fullyQualifiedTypeName name="game.updown.UpDownGameManager"/>
     <fullyQualifiedTypeName name="game.Rcp.RcpGameManager"/>
+    <fullyQualifiedTypeName name="test.MethodTest"/>
     <fullyQualifiedTypeName name="data.Person"/>
+    <fullyQualifiedTypeName name="data.Pokemon"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="data.Member"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="manager.PokemonManager"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="manager.BattleManager"/>
+    <fullyQualifiedTypeName name="main.Main"/>
+    <fullyQualifiedTypeName name="util.MyUtil"/>
+    <fullyQualifiedTypeName name="mob.Pikachu"/>
+    <fullyQualifiedTypeName name="mob.Pairi"/>
+    <fullyQualifiedTypeName name="java.nio.file.spi.FileSystemProvider"/>
+    <fullyQualifiedTypeName name="mob.Turtle"/>
+    <fullyQualifiedTypeName name="mob.Pokemon"/>
 </qualifiedTypeNameHistroy>
