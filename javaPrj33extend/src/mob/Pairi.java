@@ -3,7 +3,7 @@ package mob;
 public class Pairi extends Pokemon{
 
 	public Pairi() {
-		
+		name = "파이리";
 	}
 	
 	
@@ -14,10 +14,7 @@ public class Pairi extends Pokemon{
 	}
 
 
-	@Override
-	public String toString() {
-		return "Pairi [name=" + name + ", hp=" + hp + ", atk=" + atk + ", def=" + def + "]";
-	}
+	
 
 	
 	

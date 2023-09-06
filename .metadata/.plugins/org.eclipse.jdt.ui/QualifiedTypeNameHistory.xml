@@ -23,13 +23,22 @@
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="manager.PokemonManager"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="manager.BattleManager"/>
     <fullyQualifiedTypeName name="main.Main"/>
     <fullyQualifiedTypeName name="util.MyUtil"/>
-    <fullyQualifiedTypeName name="mob.Pikachu"/>
     <fullyQualifiedTypeName name="mob.Pairi"/>
     <fullyQualifiedTypeName name="java.nio.file.spi.FileSystemProvider"/>
     <fullyQualifiedTypeName name="mob.Turtle"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="mob.Pokemon"/>
+    <fullyQualifiedTypeName name="mob.pairi"/>
+    <fullyQualifiedTypeName name="mob.Pikachu"/>
+    <fullyQualifiedTypeName name="java.lang.Package"/>
+    <fullyQualifiedTypeName name="phon.SmartPhon"/>
+    <fullyQualifiedTypeName name="phon.TwogPhon"/>
+    <fullyQualifiedTypeName name="phon.Phon"/>
+    <fullyQualifiedTypeName name="car.Car"/>
+    <fullyQualifiedTypeName name="car.Lcid"/>
+    <fullyQualifiedTypeName name="car.Avante"/>
+    <fullyQualifiedTypeName name="car.Sonata"/>
 </qualifiedTypeNameHistroy>

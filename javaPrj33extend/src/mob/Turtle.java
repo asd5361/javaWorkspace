@@ -3,9 +3,11 @@ package mob;
 public class Turtle extends Pokemon{
 
 	public Turtle() {
-		
+		name = "꼬부기";
+
 	}
 	
+	String voice = "꼬북꼬북";
 	
 	
 	public void skill() {
@@ -14,10 +16,7 @@ public class Turtle extends Pokemon{
 	}
 
 
-	@Override
-	public String toString() {
-		return "Turtle [name=" + name + ", hp=" + hp + ", atk=" + atk + ", def=" + def + "]";
-	}
+	
 	
 	
 

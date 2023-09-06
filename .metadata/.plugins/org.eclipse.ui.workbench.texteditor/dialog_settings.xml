@@ -6,7 +6,7 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="SIDE"/>
+		<item key="selection" value="s"/>
 		<list key="findhistory">
 			<item value="s"/>
 			<item value="side"/>

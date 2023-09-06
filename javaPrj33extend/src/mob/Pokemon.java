@@ -3,9 +3,9 @@ package mob;
 public class Pokemon {
 
 	protected String name;
-	protected int hp;
-	protected int atk;
-	protected int def;
+	protected int hp=100;		
+	protected int atk = (int)(Math.random()*3*+5);
+	protected int def = (int)(Math.random()*5+1);;
 	
 	public void bodyAttack() {
 		System.out.println(name + "의 몸통박치기!");

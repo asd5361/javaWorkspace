@@ -4,6 +4,7 @@ public class Pikachu extends Pokemon{
 	
 	public Pikachu() {
 		name = "피카츄";
+		
 	}
 
 	
@@ -13,10 +14,7 @@ public class Pikachu extends Pokemon{
 	}
 
 
-	@Override
-	public String toString() {
-		return "Pikachu [name=" + name + ", hp=" + hp + ", atk=" + atk + ", def=" + def + "]";
-	}
+	
 
 	
 		
