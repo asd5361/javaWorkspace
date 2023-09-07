@@ -26,13 +26,9 @@
     <fullyQualifiedTypeName name="manager.BattleManager"/>
     <fullyQualifiedTypeName name="main.Main"/>
     <fullyQualifiedTypeName name="util.MyUtil"/>
-    <fullyQualifiedTypeName name="mob.Pairi"/>
     <fullyQualifiedTypeName name="java.nio.file.spi.FileSystemProvider"/>
-    <fullyQualifiedTypeName name="mob.Turtle"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
-    <fullyQualifiedTypeName name="mob.Pokemon"/>
     <fullyQualifiedTypeName name="mob.pairi"/>
-    <fullyQualifiedTypeName name="mob.Pikachu"/>
     <fullyQualifiedTypeName name="java.lang.Package"/>
     <fullyQualifiedTypeName name="phon.SmartPhon"/>
     <fullyQualifiedTypeName name="phon.TwogPhon"/>
@@ -41,4 +37,18 @@
     <fullyQualifiedTypeName name="car.Lcid"/>
     <fullyQualifiedTypeName name="car.Avante"/>
     <fullyQualifiedTypeName name="car.Sonata"/>
+    <fullyQualifiedTypeName name="mob.Pairi"/>
+    <fullyQualifiedTypeName name="mob.Pikachu"/>
+    <fullyQualifiedTypeName name="mob.Pokemon"/>
+    <fullyQualifiedTypeName name="mob.Turtle"/>
+    <fullyQualifiedTypeName name="org.w3c.dom.css.Counter"/>
+    <fullyQualifiedTypeName name="main.CounterEmp"/>
+    <fullyQualifiedTypeName name="main.Fishermab"/>
+    <fullyQualifiedTypeName name="main.Fisherman"/>
+    <fullyQualifiedTypeName name="main.HongGilDong"/>
+    <fullyQualifiedTypeName name="main.Pokemon"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="main.Person"/>
+    <fullyQualifiedTypeName name="main.Programmer"/>
+    <fullyQualifiedTypeName name="main.PersonAction"/>
 </qualifiedTypeNameHistroy>

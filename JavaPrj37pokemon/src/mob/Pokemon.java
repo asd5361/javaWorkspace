@@ -1,32 +1,35 @@
 package mob;
 
-public class Pokemon {
+public abstract class Pokemon {
 	
-	public Pokemon(String t) {
-		super();
-		// TODO Auto-generated constructor stub
+	
+	
+	public Pokemon(String name,int hp, int atk, int def) {
+		this.name = name;
+		this.hp = hp;
+		this.atk = atk;
+		this.def = def;
 	}
 
 	protected String name;
-	protected int hp=100;		
-	protected int atk = (int)(Math.random()*3*+5);
-	protected int def = (int)(Math.random()*5+1);;
+	protected int hp;
+	protected int atk;
+	protected int def;
 	
 	public void bodyAttack() {
-		System.out.println(name + "의 몸통박치기!");
+		System.out.println(name + " 의 몸통박치기");
 	}
 	
-	public void skill() {
-		
-	}
+	public abstract void skill();
+	
 
 	public String getName() {
 		return name;
 	}
 
-	public void setName(String name) {
-		this.name = name;
-	}
+//	public void setName(String name) {
+//		this.name = name;
+//	}
 
 	public int getHp() {
 		return hp;
@@ -55,8 +58,8 @@ public class Pokemon {
 	@Override
 	public String toString() {
 		return "Pokemon [name=" + name + ", hp=" + hp + ", atk=" + atk + ", def=" + def + "]";
-	}
+	};
+	
 	
 	
 }
-

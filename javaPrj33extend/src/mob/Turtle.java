@@ -3,6 +3,7 @@ package mob;
 public class Turtle extends Pokemon{
 
 	public Turtle() {
+		super("asdf");
 		name = "꼬부기";
 
 	}
