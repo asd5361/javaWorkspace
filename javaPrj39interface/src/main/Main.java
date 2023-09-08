@@ -17,10 +17,10 @@ public class Main {
 //			
 //		}
 		
-		Person person = new Person();
-		String s = person.say();
-		int cnt = person.walk();
-		person.eat();
+//		Person person = new Person();
+//		String s = person.say();
+//		int cnt = person.walk();
+//		person.eat();
 		
 	}
 

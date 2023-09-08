@@ -1,6 +1,6 @@
 package main;
 
-public class Person implements PersonAction{
+public abstract class Person implements PersonAction{
 
 	
 	
