@@ -18,9 +18,9 @@ public class Main {
 		
 		PracticeClass pc = new PracticeClass();
 //		pc.method01();
-		pc.method02();
-		pc.method03();
-		pc.method04();
+//		pc.method02();
+//		pc.method03();
+//		pc.method04();
 		pc.method05();
 		
 	}

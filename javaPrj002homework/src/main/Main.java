@@ -17,6 +17,7 @@ public class Main {
 		Calculate calculate = new Calculate();
 		
 		// 주문을 하시겠습니까? 안내문
+		printInfo.printStart();
 		printInfo.printst();
 		
 		// 선택 메뉴+가격 확인
