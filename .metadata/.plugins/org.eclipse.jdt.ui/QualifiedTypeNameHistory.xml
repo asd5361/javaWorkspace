@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="main.Student"/>
-    <fullyQualifiedTypeName name="main.SmartPhone"/>
-    <fullyQualifiedTypeName name="java.util.prefs.BackingStoreException"/>
-    <fullyQualifiedTypeName name="battle.BattleManager"/>
-    <fullyQualifiedTypeName name="java.lang.StrictMath"/>
-    <fullyQualifiedTypeName name="game.GameManager"/>
-    <fullyQualifiedTypeName name="game.updown.UpDownGameManager"/>
-    <fullyQualifiedTypeName name="game.Rcp.RcpGameManager"/>
-    <fullyQualifiedTypeName name="test.MethodTest"/>
     <fullyQualifiedTypeName name="data.Person"/>
     <fullyQualifiedTypeName name="data.Pokemon"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
@@ -35,7 +26,6 @@
     <fullyQualifiedTypeName name="main.Fisherman"/>
     <fullyQualifiedTypeName name="main.HongGilDong"/>
     <fullyQualifiedTypeName name="main.Pokemon"/>
-    <fullyQualifiedTypeName name="main.Person"/>
     <fullyQualifiedTypeName name="main.Programmer"/>
     <fullyQualifiedTypeName name="main.PersonAction"/>
     <fullyQualifiedTypeName name="java.security.PublicKey"/>
@@ -43,11 +33,8 @@
     <fullyQualifiedTypeName name="java.awt.Point"/>
     <fullyQualifiedTypeName name="test.Test"/>
     <fullyQualifiedTypeName name="java.util.Stack"/>
-    <fullyQualifiedTypeName name="java.util.Queue"/>
     <fullyQualifiedTypeName name="mob.Pokemon"/>
-    <fullyQualifiedTypeName name="java.util.HashSet"/>
     <fullyQualifiedTypeName name="java.nio.file.spi.FileSystemProvider"/>
-    <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="java.util.LinkedList"/>
     <fullyQualifiedTypeName name="main.Mybox"/>
     <fullyQualifiedTypeName name="menu.Menu"/>
@@ -57,7 +44,20 @@
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="javax.swing.event.MenuListener"/>
     <fullyQualifiedTypeName name="java.lang.Object"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="main.Menu"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="main.User"/>
+    <fullyQualifiedTypeName name="java.util.Queue"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="javax.lang.model.element.Element"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="menu.Burger"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="emp.CountEmp"/>
+    <fullyQualifiedTypeName name="main.Person"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="main.TestClass"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="javax.crypto.AEADBadTagException"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
 </qualifiedTypeNameHistroy>
