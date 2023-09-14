@@ -10,4 +10,18 @@
 	</section>
 	<section name="FileSystemImportWizard">
 	</section>
+	<section name="org.eclipse.ui.internal.dialogs.WorkbenchEditorsDialog">
+		<item key="allPersp" value="false"/>
+		<item key="sort" value="0"/>
+		<list key="bounds">
+			<item value="932"/>
+			<item value="126"/>
+			<item value="798"/>
+			<item value="553"/>
+		</list>
+		<list key="columns">
+			<item value="253"/>
+			<item value="507"/>
+		</list>
+	</section>
 </section>

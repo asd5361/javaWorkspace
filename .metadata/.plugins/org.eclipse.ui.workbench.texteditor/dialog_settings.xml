@@ -6,8 +6,9 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="s"/>
+		<item key="selection" value=""/>
 		<list key="findhistory">
+			<item value="join"/>
 			<item value="아이디 검사"/>
 			<item value="s"/>
 			<item value="side"/>

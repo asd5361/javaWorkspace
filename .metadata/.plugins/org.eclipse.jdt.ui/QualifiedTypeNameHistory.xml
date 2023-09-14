@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="car.Car"/>
-    <fullyQualifiedTypeName name="car.Lcid"/>
-    <fullyQualifiedTypeName name="car.Avante"/>
-    <fullyQualifiedTypeName name="car.Sonata"/>
-    <fullyQualifiedTypeName name="mob.Pairi"/>
-    <fullyQualifiedTypeName name="mob.Pikachu"/>
-    <fullyQualifiedTypeName name="mob.Turtle"/>
-    <fullyQualifiedTypeName name="org.w3c.dom.css.Counter"/>
-    <fullyQualifiedTypeName name="main.CounterEmp"/>
-    <fullyQualifiedTypeName name="main.Fishermab"/>
-    <fullyQualifiedTypeName name="main.Fisherman"/>
-    <fullyQualifiedTypeName name="main.HongGilDong"/>
     <fullyQualifiedTypeName name="main.Pokemon"/>
     <fullyQualifiedTypeName name="main.Programmer"/>
     <fullyQualifiedTypeName name="main.PersonAction"/>
@@ -47,17 +35,29 @@
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="javax.swing.event.MenuListener"/>
     <fullyQualifiedTypeName name="main.MemberManager"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.lang.Boolean"/>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="main.Member"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
-    <fullyQualifiedTypeName name="java.io.File"/>
-    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
-    <fullyQualifiedTypeName name="java.io.FileWriter"/>
-    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
     <fullyQualifiedTypeName name="java.io.BufferedWriter"/>
     <fullyQualifiedTypeName name="java.io.BufferedOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
     <fullyQualifiedTypeName name="java.io.PrintStream"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.OutputStream"/>
+    <fullyQualifiedTypeName name="java.io.OutputStreamWriter"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="java.io.Writer"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="java.io.FileWriter"/>
+    <fullyQualifiedTypeName name="java.net.MulticastSocket"/>
+    <fullyQualifiedTypeName name="javax.swing.text.GapContent"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.RunnableFuture"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="main.KhClass"/>
 </qualifiedTypeNameHistroy>
