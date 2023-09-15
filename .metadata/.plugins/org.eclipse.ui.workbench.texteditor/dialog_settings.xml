@@ -8,6 +8,7 @@
 		<item key="isRegEx" value="false"/>
 		<item key="selection" value=""/>
 		<list key="findhistory">
+			<item value="name("/>
 			<item value="join"/>
 			<item value="아이디 검사"/>
 			<item value="s"/>
